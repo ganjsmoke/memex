@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^2.4.2",
+    "random-useragent": "^0.5.0"
+  }
+}
